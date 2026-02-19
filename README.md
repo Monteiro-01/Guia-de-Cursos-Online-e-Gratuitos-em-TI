@@ -41,6 +41,7 @@ O objetivo é orientar estudantes e profissionais sobre caminhos de estudo onlin
 - [Microsoft Learn](https://learn.microsoft.com/training/) – Trilhas oficiais da Microsoft  
 - [Coursera](https://www.coursera.org) – Cursos gratuitos com opção de certificado pago  
 - [Udemy Free](https://www.udemy.com/courses/free/) – Cursos gratuitos em diversas áreas
+- [Cursa.app](https://cursa.app/pt) — Plataforma com cursos gratuitos em diversas áreas de TI.
 - [Samsung Ocean Brasil](https://oceanbrasil.com/) – Cursos e eventos gratuitos, online e presenciais, com certificado. Trilhas em IA, IoT, Blockchain, Saúde Digital e muito mais.
 - [DIO.me](https://www.dio.me/) – Bootcamps, projetos práticos e mais de 1.750(com opção de compra para ter acesso aos Bootcamps anteriores) cursos em diversas áreas da tecnologia, com foco em empregabilidade e comunidade.
 
