@@ -4,7 +4,7 @@
 Este repositório reúne recursos gratuitos de aprendizado em Tecnologia da Informação (TI).  
 O objetivo é orientar estudantes e profissionais sobre caminhos de estudo online, ajudando a desenvolver habilidades técnicas sem custo.
 
-[Acesso ao APP](https://tech-path-go.base44.app)
+[Acesso ao APP](https://guia-de-cursos-gratuitos-em-ti.base44.app)
 
 ---
 
