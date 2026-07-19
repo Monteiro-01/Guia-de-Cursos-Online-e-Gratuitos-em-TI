@@ -38,14 +38,16 @@ O objetivo é orientar estudantes e profissionais sobre caminhos de estudo onlin
 ---
 
 ## 🌐 Plataformas Gratuitas Recomendadas
-- [FreeCodeCamp](https://www.freecodecamp.org) – Projetos práticos e certificações gratuitas  
-- [Khan Academy](https://pt.khanacademy.org) – Fundamentos de programação e ciência da computação  
-- [Microsoft Learn](https://learn.microsoft.com/training/) – Trilhas oficiais da Microsoft  
-- [Coursera](https://www.coursera.org) – Cursos gratuitos com opção de certificado pago  
-- [Udemy Free](https://www.udemy.com/courses/free/) – Cursos gratuitos em diversas áreas
+- [FreeCodeCamp](https://www.freecodecamp.org) – Projetos práticos e certificações gratuitas.  
+- [Khan Academy](https://pt.khanacademy.org) – Fundamentos de programação e ciência da computação.  
+- [Microsoft Learn](https://learn.microsoft.com/training/) – Trilhas oficiais da Microsoft.  
+- [Coursera](https://www.coursera.org) – Cursos gratuitos com opção de certificado pago.  
+- [Udemy Free](https://www.udemy.com/courses/free/) – Cursos gratuitos em diversas áreas.
 - [Cursa.app](https://cursa.app/pt) — Plataforma com cursos gratuitos em diversas áreas de TI.
+- [Cisco Networking Academy](https://www.netacad.com/) — Plataforma com cursos gratuitos em diversas áreas de TI com trilhas de muito valor técnico.
+- [AWS Skill bilder](https://skillbuilder.aws/) – Projetos práticos e certificações gratuitas com muitos detalhes de cada ferramenta e serviços de computação em nuvem.  
 - [Samsung Ocean Brasil](https://oceanbrasil.com/) – Cursos e eventos gratuitos, online e presenciais, com certificado. Trilhas em IA, IoT, Blockchain, Saúde Digital e muito mais.
-- [DIO.me](https://www.dio.me/) – Bootcamps, projetos práticos e mais de 1.750(com opção de compra para ter acesso aos Bootcamps anteriores) cursos em diversas áreas da tecnologia, com foco em empregabilidade e comunidade.
+- [DIO](https://www.dio.me/) – Bootcamps, projetos práticos e mais de 1.750(com opção de compra para ter acesso aos Bootcamps anteriores) cursos em diversas áreas da tecnologia, com foco em empregabilidade e comunidade.
 
 
 ---
